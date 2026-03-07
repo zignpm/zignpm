@@ -1,0 +1,15 @@
+{
+  "name": "zigjs",
+  "version": "0.0.1",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "https://github.com/zigjs/zigjs",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zigjs/zigjs.git"
+  }
+}
