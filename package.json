@@ -1,5 +1,5 @@
 {
-  "name": "zigjs",
+  "name": "@zigjs/zigjs",
   "version": "0.0.1",
   "license": "MIT",
   "type": "module",
@@ -10,6 +10,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/zigjs/zigjs.git"
+    "url": "git+https://github.com/zigjs/zigjs.git"
   }
 }
