@@ -1,6 +1,6 @@
 {
-  "name": "@zigjs/zigjs",
-  "version": "0.0.1",
+  "name": "zignpm",
+  "version": "0.0.2",
   "license": "MIT",
   "type": "module",
   "homepage": "https://github.com/zigjs/zigjs",
