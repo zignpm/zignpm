@@ -3,13 +3,9 @@
   "version": "0.0.2",
   "license": "MIT",
   "type": "module",
-  "homepage": "https://github.com/zigjs/zigjs",
-  "publishConfig": {
-    "access": "public",
-    "registry": "https://registry.npmjs.com"
-  },
+  "homepage": "https://www.zignpm.com",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zigjs/zigjs.git"
+    "url": "git+https://github.com/zignpm/zignpm.git"
   }
 }
